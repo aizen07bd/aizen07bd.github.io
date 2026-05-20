@@ -1,5 +1,5 @@
 ---
-title: "H19. 볼린저 상단 접근은 탐색 후보로 남겼다
+title: "H19. 볼린저 상단 접근은 탐색 후보로 남겼다"
 date: 2026-05-20 08:30:00 +09:00
 categories: [Fintech, ChartAnalysis]
 tags: [Finance, Analysis]
