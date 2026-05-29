@@ -23,7 +23,7 @@ image:
 
 플레이어는 이 6명 중 한 명을 시작 캐릭터로 고릅니다. 선택한 캐릭터에 따라 먼저 진행하는 세계가 달라지고, 동료가 합류하는 순서도 바뀝니다.
 
-![캐릭터 선택 화면](/assets/img/posts/linedefens-select.png)
+![캐릭터 선택 화면](/assets/img/posts/linedefense-select.png)
 
 ## 캐릭터 전체 구성
 
